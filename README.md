@@ -28,7 +28,7 @@ For Mac, either you have to do all the git commands through command line and use
 - To be posted
 
 # Office
-[![Fardad Office](images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3a1381ZsiY4b_W62-Jd3ipFIk-O77ae3qgi2LFgq7GgHg1%40thread.tacv2/General?groupId=d03b0a80-eead-4454-851c-5c1fe9428ba3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
+[![Fardad Office](Images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3a1381ZsiY4b_W62-Jd3ipFIk-O77ae3qgi2LFgq7GgHg1%40thread.tacv2/General?groupId=d03b0a80-eead-4454-851c-5c1fe9428ba3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
 For Help and office times, click on my  [Office](https://teams.microsoft.com/l/channel/19%3a1381ZsiY4b_W62-Jd3ipFIk-O77ae3qgi2LFgq7GgHg1%40thread.tacv2/General?groupId=d03b0a80-eead-4454-851c-5c1fe9428ba3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)  link to go to MS Teams, then click on the calendar icon and book a meeting using **Scheduling Assistant** to make sure it does not have a conflict with my other work activities.
 
