@@ -2,30 +2,30 @@
 
 
 ## Workshop Zero
-As a student in my class, you must familiarize yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
+As a student in my class, you must familiarize yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring of your progress. 
 
 This is done using what I call Workshop Zero; through a series of videos instructing you on how to set up your computer to use GitHub effectively for collaboration.
  
 Complete this workshop by September 12th.
 
-> This workshop was originally created for my OOP244 students, but since the details are identical for both 244 and 345, I am not going to create a new one for OOP345.<br />Therefore in following playlist at any point when the subject or name `OOP244` is referred to, please replace it with `OOP345`!
+> This workshop was originally created for my OOP244 students, but since the details are identical for both 244 and 345, I am not going to create a new one for OOP345.<br />Therefore in the following playlist at any point when the subject or name `OOP244` is referred to, please replace it with `OOP345`!
 
-Here are the Videos. The due date for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Tuesday September 12th.
+Here are the Videos. The due date for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Tuesday, September 12th.
 
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
-> Note: As a computer science student you must learn to be precise and exact in your work. Please watch the videos and listen to the instructions carefully an follow the instructions EXACTLY as instructed. Specially the last step of the Workshop.
+> Note: As a computer science student you must learn to be precise and exact in your work. Please watch the videos, listen to the instructions carefully and follow the instructions EXACTLY as instructed. Especially the last step of the Workshop.
 
 ### Mac Users
-Working on different platforms you are required to learn and work with visual studio as an advanced IDE specially in future semesters.<br />
-For Mac, either you have to do all the git commands through command line and use XCode (which you can not use in future windows related subjects), or you need to install a Virtual Machine and run windows on your Mac. This will have windows running in a window on your Mac without losing your Mac Settings and features:
+Working on different platforms you are required to learn and work with Visual Studio as an advanced IDE, especially in future semesters.<br />
+For Mac, either you have to do all the git commands through the command line and use XCode (which you can not use in future Windows-related subjects), or you need to install a Virtual Machine and run Windows on your Mac. This will have Windows running in a window on your Mac without losing your Mac Settings and features:
 - [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html) Fusion is free for students; click on ["Register Lisence for Personal Use"](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) 
 - [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
 
 
 
 ### Lecture recordings
-- To be posted
+- [01-Sep8, Introduction](https://youtu.be/3kVSMVlA_Gg)
 
 # Office
 [![Fardad Office](Images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3a1381ZsiY4b_W62-Jd3ipFIk-O77ae3qgi2LFgq7GgHg1%40thread.tacv2/General?groupId=d03b0a80-eead-4454-851c-5c1fe9428ba3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
