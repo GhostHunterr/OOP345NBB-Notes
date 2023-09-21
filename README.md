@@ -2,7 +2,7 @@
 
 ## Online Lectures
 
-You can join as a guest to the lecture only with your FULL NAME and using a microphone (NO LISTEN ONLY) by [clicking HERE](https://connect.rna2.blindsidenetworks.com/invite/to?c=ddgHLRVoQIIGTqiSsCXTOd8hay1hCGLIQesHdThLJ1Y&m=01540574e3804e719f3f0958abac9d4166062c3d&t=1694446501615&u=senecacollege)
+You can join as a guest to the lecture only with your FULL NAME and using a microphone (NO LISTEN ONLY) by [clicking HERE for Sep18th](https://connect.rna2.blindsidenetworks.com/invite/to?c=jVpOXwCxSyvy6haHx04ukv3YISASMrwTCKl78lDpW1o&m=01540574e3804e719f3f0958abac9d4166062c3d&t=1695051504955&u=senecacollege)
 
 ## Workshop Zero
 As a student in my class, you must familiarize yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring of your progress. 
