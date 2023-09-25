@@ -30,7 +30,9 @@ For Mac, either you have to do all the git commands through the command line and
 ### Lecture recordings
 - [01-Sep8, Introduction](https://youtu.be/3kVSMVlA_Gg)
 - [How to book an appointment with Fardad for Help or discussion](https://youtu.be/4pnVGeDpTck)
-
+- [03- Sep15 - Static, Main Arguments, Reference Review, void pointers, lvalue and value](https://youtu.be/7McCW3caDYo?si=zLPULKce4t3C2Kac)
+- [04-Sep18 -  pointer to pointers, main args, aggregate initialization, Unions, Auto, statics](https://youtu.be/BtMl2tKWpQA)
+- [05-Review and Moving](https://youtu.be/SsW9jPf1rpc?si=NiLIDrhxKiTNNBai)
 # Office
 [![Fardad Office](Images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3a1381ZsiY4b_W62-Jd3ipFIk-O77ae3qgi2LFgq7GgHg1%40thread.tacv2/General?groupId=d03b0a80-eead-4454-851c-5c1fe9428ba3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
