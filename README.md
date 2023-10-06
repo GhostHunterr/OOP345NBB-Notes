@@ -30,6 +30,7 @@ For Mac, either you have to do all the git commands through the command line and
 ### Lecture recordings
 - [01-Sep8, Introduction](https://youtu.be/3kVSMVlA_Gg)
 - [How to book an appointment with Fardad for Help or discussion](https://youtu.be/4pnVGeDpTck)
+- [02- Sep 11 - typedef, static, how compiler works and syntax of main](https://recordings.rna2.blindsidenetworks.com/senecacollege/b3ba287a672f67483331c27b46a1916f1312da0c-1694446501659/capture/)
 - [03- Sep15 - Static, Main Arguments, Reference Review, void pointers, lvalue and value](https://youtu.be/7McCW3caDYo?si=zLPULKce4t3C2Kac)
 - [04-Sep18 -  pointer to pointers, main args, aggregate initialization, Unions, Auto, statics](https://youtu.be/BtMl2tKWpQA)
 - [05-Sep22 - Review and Moving](https://youtu.be/SsW9jPf1rpc?si=NiLIDrhxKiTNNBai)
