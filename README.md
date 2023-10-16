@@ -37,7 +37,7 @@ For Mac, either you have to do all the git commands through the command line and
 - [06-Sep25 - Review and templates](https://youtu.be/22B2cItgmeY)
 - [07- Oct02 - Association Aggregation, new function signature, recursion](https://recordings.rna2.blindsidenetworks.com/senecacollege/b3ba287a672f67483331c27b46a1916f1312da0c-1696261014693/capture/)
 - [08- Oct 06 Pointer to functions and Functors](https://youtu.be/AMHEAAnUlpE)
-- [09- Oct 13 Functions(all kind) and Exeptions](https://youtu.be/5BuSCeGLIgo)
+- [09- Oct 13 Functions(all kind) and Exceptions](https://youtu.be/5BuSCeGLIgo)
 
 
 # Office
