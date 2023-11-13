@@ -40,6 +40,8 @@ For Mac, either you have to do all the git commands through the command line and
 - [09- Oct 13 Functions(all kind) and Exceptions](https://youtu.be/5BuSCeGLIgo)
 - To be posted
 - [12- Nov 03 Files, Wrappers](https://youtu.be/SAHD1SLkHXU)
+- To be posted
+- [14- Nov 10 Parallel processing, threads, mutex, atomic](https://youtu.be/I3Dm2nldFoM)
 
 
 # Office
