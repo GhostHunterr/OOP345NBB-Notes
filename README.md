@@ -1,9 +1,5 @@
 # OOP345 NBB Notes
 
-## Online Lectures
-
-You can join as a guest to the lecture only with your FULL NAME and using a microphone (NO LISTEN ONLY) by [clicking HERE for Oct 16](https://connect.rna2.blindsidenetworks.com/invite/to?c=lFeZ1NHyZAlnnq3vJD9iDlwUEPvrGGcs8GoLxEyHI4E&m=01540574e3804e719f3f0958abac9d4166062c3d&t=1697470508150&u=senecacollege)
-
 ## Workshop Zero
 As a student in my class, you must familiarize yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring of our progress. 
 
