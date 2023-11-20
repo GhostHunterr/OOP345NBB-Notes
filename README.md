@@ -38,6 +38,8 @@ For Mac, either you have to do all the git commands through the command line and
 - [12- Nov 03 Files, Wrappers](https://youtu.be/SAHD1SLkHXU)
 - To be posted
 - [14- Nov 10 Parallel processing, threads, mutex, atomic](https://youtu.be/I3Dm2nldFoM)
+- To be posted
+- [17- Nov 20 pointers and arrays](https://youtu.be/RQ_TzkwKukk)
 
 
 # Office
