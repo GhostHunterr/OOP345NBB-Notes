@@ -40,7 +40,7 @@ For Mac, either you have to do all the git commands through the command line and
 - [14- Nov 10 Parallel processing, threads, mutex, atomic](https://youtu.be/I3Dm2nldFoM)
 - To be posted
 - [17- Nov 20 pointers and arrays](https://youtu.be/RQ_TzkwKukk)
-
+- [18- Nov 24 Multiple Inheritance and Bitwise Intor](https://youtu.be/eMfZzV0iNao)
 
 # Office
 [![Fardad Office](Images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3a1381ZsiY4b_W62-Jd3ipFIk-O77ae3qgi2LFgq7GgHg1%40thread.tacv2/General?groupId=d03b0a80-eead-4454-851c-5c1fe9428ba3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
