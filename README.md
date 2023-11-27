@@ -34,7 +34,9 @@ For Mac, either you have to do all the git commands through the command line and
 - [07- Oct02 - Association Aggregation, new function signature, recursion](https://recordings.rna2.blindsidenetworks.com/senecacollege/b3ba287a672f67483331c27b46a1916f1312da0c-1696261014693/capture/)
 - [08- Oct 06 Pointer to functions and Functors](https://youtu.be/AMHEAAnUlpE)
 - [09- Oct 13 Functions(all kind) and Exceptions](https://youtu.be/5BuSCeGLIgo)
-- To be posted
+- [10- Oct 16 Functions, Compositions, Aggregations and Associations](https://recordings.rna2.blindsidenetworks.com/senecacollege/b3ba287a672f67483331c27b46a1916f1312da0c-1697470508199/capture/)
+- [11- Oct 30 STL and Files](https://recordings.rna2.blindsidenetworks.com/senecacollege/b3ba287a672f67483331c27b46a1916f1312da0c-1698679852379/capture/)
+- 
 - [12- Nov 03 Files, Wrappers](https://youtu.be/SAHD1SLkHXU)
 - [13- Nov 06 Algorithms, Pointers](https://youtu.be/L2apAYCgnWg)
 - [14- Nov 10 Parallel processing, threads, mutex, atomic](https://youtu.be/I3Dm2nldFoM)
