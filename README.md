@@ -36,9 +36,10 @@ For Mac, either you have to do all the git commands through the command line and
 - [09- Oct 13 Functions(all kind) and Exceptions](https://youtu.be/5BuSCeGLIgo)
 - To be posted
 - [12- Nov 03 Files, Wrappers](https://youtu.be/SAHD1SLkHXU)
-- To be posted
+- [13- Nov 06 Algorithms, Pointers](https://youtu.be/L2apAYCgnWg)
 - [14- Nov 10 Parallel processing, threads, mutex, atomic](https://youtu.be/I3Dm2nldFoM)
-- To be posted
+- [15- Nov 13 - Multi Threading](https://youtu.be/4_DiUFIIpo4)
+- [16- Nov 17 - Pre-processor directives](https://youtu.be/fDJiinQjLck)
 - [17- Nov 20 pointers and arrays](https://youtu.be/RQ_TzkwKukk)
 - [18- Nov 24 Multiple Inheritance and Bitwise Intor](https://youtu.be/eMfZzV0iNao)
 
