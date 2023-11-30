@@ -5,7 +5,16 @@ void print(int b[][4], int NoOfArrays) {
 
 }
 
+union MulArray {
+   double* dptr;
+   int* iptr;
+   char* cptr;
+};
+
 int main() {
+
+   MulArray ma[3]{};
+
    int b[2][4] = { { 100, 200, 300, 400 },{500,600,700, 800} };
    int* a = reinterpret_cast<int*>(b);
    int** p = new int* [4];
